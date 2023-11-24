@@ -1,5 +1,7 @@
 # osc_niigata_2023-demo
 
+2023/11/25 (土) [Open Source Conference 2023 Niigata](https://ospn.connpass.com/event/297587/) で披露したデモのソースコードです。
+
 Google Colaboratoryで動作します。
 
 ## 準備
